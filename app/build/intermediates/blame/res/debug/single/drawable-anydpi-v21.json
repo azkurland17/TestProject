@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/betelgeuse/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/betelgeuse/.android/build-cache/e79a400fa3e92d2a1a941302d78d0c83abe7c8d9/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/betelgeuse/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/betelgeuse/.android/build-cache/e79a400fa3e92d2a1a941302d78d0c83abe7c8d9/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

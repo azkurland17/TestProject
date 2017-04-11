@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/betelgeuse/.android/build-cache/295033873afdf8085e1917d159aede4bbfbb9e79/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/betelgeuse/.android/build-cache/e79a400fa3e92d2a1a941302d78d0c83abe7c8d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/betelgeuse/.android/build-cache/eec00bee1feb27ee9a4a9a86d8f0ee2895115c5d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/betelgeuse/.android/build-cache/06bd45abe067701e9c95a37f05d5ed739b141122/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/betelgeuse/.android/build-cache/395997a7ae87f15e8436c648b166054eec271920/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/betelgeuse/.android/build-cache/fad7a35c3ba49e0800093122028df8fbd62d1915/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/betelgeuse/.android/build-cache/be804bb99156486d7c8cc6fbf52e159e96992264/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/betelgeuse/.android/build-cache/6b1d43d87e7fc9b29203cfc5cc5014944a2578be/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/betelgeuse/.android/build-cache/5923112672b42db7681154d5ef898fb67596e1a9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/betelgeuse/.android/build-cache/a5793c16969c02fc70b667cec9a333dde4ad6374/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/betelgeuse/.android/build-cache/c515c60a38e344ffa1101bb93e7c140e57284b03/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/betelgeuse/.android/build-cache/2bcba7051f6c5a4ff11ee9833a4a28e3af6efc87/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.andriod.testproject.MainActivity
+ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/betelgeuse/.android/build-cache/295033873afdf8085e1917d159aede4bbfbb9e79/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /Users/betelgeuse/.android/build-cache/e79a400fa3e92d2a1a941302d78d0c83abe7c8d9/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/betelgeuse/.android/build-cache/eec00bee1feb27ee9a4a9a86d8f0ee2895115c5d/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/betelgeuse/.android/build-cache/06bd45abe067701e9c95a37f05d5ed739b141122/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/betelgeuse/.android/build-cache/395997a7ae87f15e8436c648b166054eec271920/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/betelgeuse/.android/build-cache/67070abb6fde27311239d4c39cf83561d748f121/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/betelgeuse/.android/build-cache/fad7a35c3ba49e0800093122028df8fbd62d1915/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/betelgeuse/.android/build-cache/be804bb99156486d7c8cc6fbf52e159e96992264/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/betelgeuse/.android/build-cache/6b1d43d87e7fc9b29203cfc5cc5014944a2578be/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/betelgeuse/.android/build-cache/5923112672b42db7681154d5ef898fb67596e1a9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/betelgeuse/.android/build-cache/a5793c16969c02fc70b667cec9a333dde4ad6374/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/betelgeuse/.android/build-cache/c515c60a38e344ffa1101bb93e7c140e57284b03/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /Users/betelgeuse/.android/build-cache/2bcba7051f6c5a4ff11ee9833a4a28e3af6efc87/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/betelgeuse/.android/build-cache/e79a400fa3e92d2a1a941302d78d0c83abe7c8d9/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/betelgeuse/AndroidStudioProjects/TestProject/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/betelgeuse/.android/build-cache/e79a400fa3e92d2a1a941302d78d0c83abe7c8d9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/betelgeuse/.android/build-cache/eec00bee1feb27ee9a4a9a86d8f0ee2895115c5d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/betelgeuse/.android/build-cache/06bd45abe067701e9c95a37f05d5ed739b141122/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/betelgeuse/.android/build-cache/395997a7ae87f15e8436c648b166054eec271920/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/betelgeuse/.android/build-cache/67070abb6fde27311239d4c39cf83561d748f121/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/betelgeuse/.android/build-cache/fad7a35c3ba49e0800093122028df8fbd62d1915/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/betelgeuse/.android/build-cache/be804bb99156486d7c8cc6fbf52e159e96992264/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/betelgeuse/.android/build-cache/6b1d43d87e7fc9b29203cfc5cc5014944a2578be/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/betelgeuse/.android/build-cache/5923112672b42db7681154d5ef898fb67596e1a9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/betelgeuse/.android/build-cache/a5793c16969c02fc70b667cec9a333dde4ad6374/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/betelgeuse/.android/build-cache/c515c60a38e344ffa1101bb93e7c140e57284b03/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/betelgeuse/.android/build-cache/2bcba7051f6c5a4ff11ee9833a4a28e3af6efc87/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/betelgeuse/.android/build-cache/e79a400fa3e92d2a1a941302d78d0c83abe7c8d9/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/betelgeuse/.android/build-cache/e79a400fa3e92d2a1a941302d78d0c83abe7c8d9/output/AndroidManifest.xml:26:9-47
